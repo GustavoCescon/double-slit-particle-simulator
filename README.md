@@ -1,4 +1,4 @@
-🧪 Experimento da Dupla Fenda com Partículas# 🧪 Experimento da Dupla Fenda com Partículas
+# 🧪 Experimento da Dupla Fenda com Partículas
 
 Este projeto é uma simulação visual interativa do famoso **Experimento da Dupla Fenda**, demonstrando conceitos de mecânica quântica, como a dualidade partícula-onda. A simulação foi desenvolvida com **HTML**, **CSS** e **JavaScript puro**, sendo leve e compatível com navegadores modernos.
 
