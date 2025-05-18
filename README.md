@@ -38,7 +38,7 @@ Este experimento é um dos pilares da **mecânica quântica**, questionando noç
 
 ## 📁 Estrutura
 ```
-double-slit-particle-simulatora/
+double-slit-particle-simulator/
 ├── index.html
 ├── style.css
 └── script.js
