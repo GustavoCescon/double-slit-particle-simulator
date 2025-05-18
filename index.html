@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experimento da Dupla Fenda</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <h1>Experimento da Dupla Fenda</h1>
+    
+    <div class="container">
+        <div class="laser"></div>
+        <div class="barrier"></div>
+        <div class="slit top"></div>
+        <div class="slit bottom"></div>
+        <div class="screen"></div>
+    </div>
+    
+    <div class="controls">
+        <button id="startBtn">Iniciar Experimento</button>
+        <button id="resetBtn">Reiniciar</button>
+        <div class="wave-toggle">
+            <input type="checkbox" id="waveToggle">
+            <label for="waveToggle">Modo Onda (Interferência)</label>
+        </div>
+    </div>
+    
+    <div class="info">
+        <p><strong>Como usar:</strong> Clique em "Iniciar Experimento" para começar. Use o checkbox para alternar entre o comportamento de partícula e onda.</p>
+        <p><strong>Modo Partícula:</strong> As partículas passam por uma das fendas e formam duas bandas na tela.</p>
+        <p><strong>Modo Onda:</strong> As partículas exibem interferência, criando um padrão de múltiplas bandas na tela.</p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
