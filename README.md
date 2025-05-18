@@ -6,7 +6,7 @@ Este projeto é uma simulação visual interativa do famoso **Experimento da Dup
 
 ## 📸 Demonstração
 
-[![Dupla Fenda Simulation](https://img.shields.io/badge/Ver-Simula%C3%A7%C3%A3o-2ea44f?logo=javascript)](https://codepen.io/SEU_USUARIO/pen/LINK_DO_PROJECT)
+[![Dupla Fenda Simulation](https://img.shields.io/badge/Ver-Simula%C3%A7%C3%A3o-2ea44f?logo=javascript)]([https://codepen.io/SEU_USUARIO/pen/LINK_DO_PROJECT](https://codepen.io/GustavoCescon/pen/MYYRBxr))
 
 ---
 
@@ -38,7 +38,7 @@ Este experimento é um dos pilares da **mecânica quântica**, questionando noç
 
 ## 📁 Estrutura
 ```
-dupla-fenda/
+double-slit-particle-simulatora/
 ├── index.html
 ├── style.css
 └── script.js
