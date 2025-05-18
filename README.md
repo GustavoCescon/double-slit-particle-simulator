@@ -78,7 +78,7 @@ Você pode ajustar os seguintes parâmetros para alterar a simulação:
 **Gustavo Cescon**  
 Desenvolvedor Fullstack JavaScript apaixonado por ciência, tecnologia e aprendizado contínuo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoCescon-blue?logo=linkedin)](https://www.linkedin.com/in/GustavoCescon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoCescon-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-cescon/)
 
 ---
 
