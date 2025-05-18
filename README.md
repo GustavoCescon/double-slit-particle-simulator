@@ -37,12 +37,12 @@ Este experimento é um dos pilares da **mecânica quântica**, questionando noç
 ---
 
 ## 📁 Estrutura
-
+```
 dupla-fenda/
 ├── index.html
 ├── style.css
 └── script.js
-
+```
 
 ---
 
